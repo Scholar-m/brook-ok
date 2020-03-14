@@ -45,7 +45,7 @@
 #### 下载
 源码文件以 brook-ok.py 保存在本地
 ```bash
-curl -o brook-ok.py -L https://raw.githubusercontent.com/Ccapton/brook-ok/master/brook-ok.py
+curl -o brook-ok.py -L https://raw.githubusercontent.com/Scholar-m/brook-ok/master/brook-ok.py
 ```
 
 #### 运行 
